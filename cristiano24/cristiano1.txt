@@ -1,0 +1,9 @@
+access.log
+cristiano1.txt
+cristiano2.txt
+cristiano24/
+cristiano3.txt
+instrucoes.txt
+README.md
+trab1-2017.txt
+trabalho/
