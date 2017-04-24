@@ -37,7 +37,7 @@ Resposta2 (numero de diretorios encontrados) : 4
 7 - Qual o comando linux para: 
 Extrair todos os enderecos IP dos arquivos 
 que começam com "access.log" imprimindo um endereço IP por linha.
-Resposta: grep "200.19.168.148" access.log
+Resposta:cat access.log | grep '[0-9]\{3/}.[0-9]\{3\}.[0-9]\{3\}'
 
 8 - listar o conteudo de seu diretorio e direcionar a saida 
 para o primeiro arquivo do item 4.
