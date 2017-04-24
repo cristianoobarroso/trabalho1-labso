@@ -31,7 +31,7 @@ cp cristiano3.txt cristiano24
 diga quantos diretorios existem cujo nome começa com "pasta"?
 Resposta1 (comando linux usado):find -name pasta
 
-Resposta2 (numero de diretorios encontrados) : 3
+Resposta2 (numero de diretorios encontrados) : 4
 
 
 7 - Qual o comando linux para: 
